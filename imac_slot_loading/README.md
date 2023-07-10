@@ -43,7 +43,7 @@ To patch the firmware updater, use a hex editor to edit the iMac Firmware Update
 
 Just like with the update file, make sure to preserve the resource fork when you make this change.
 
-Note that after installing the update, it will warn you that the update was unsuccesful. This is a false alarm. If it persists at every boot, make sure your `System Folder:Startup Items` folder doesn't contain a copy of the firmware updater
+Note that after installing the update, it will warn you that the update was unsuccessful. This is a false alarm. If it persists at every boot, make sure your `System Folder:Startup Items` folder doesn't contain a copy of the firmware updater
 .
 
 ## More information
